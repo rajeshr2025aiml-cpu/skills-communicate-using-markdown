@@ -1,4 +1,7 @@
 # Communicate using Markdown
+# My AI Journey
+## Learning Markdown
+### First Steps
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
