@@ -4,6 +4,7 @@
 ### First Steps
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+![My favorite GitHub mascot](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Hey rajeshr2025aiml-cpu!
 
